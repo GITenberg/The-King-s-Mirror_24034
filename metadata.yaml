@@ -1,0 +1,31 @@
+_repo: The-King-s-Mirror_24034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: This 1899 novel, of which Hope had a very high opinion, represented a
+  change in his fictional dynamic, from a focus on adventure and intrigue to the no-less
+  riveting dramas of internal conflict and development. A young king learns the wisdom
+  of self-discipline and restraint as he leads his country through troubled times.
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Fiction'
+title: The King's Mirror
+url: http://www.gutenberg.org/ebooks/24034
